@@ -1,6 +1,6 @@
 # SimpleCrumb LTD
 
-![](https://www.simplecrumb.com/SimpleCrumb-logo.svg)
+
 
 ### Bespoke solutions that work for you.
 
